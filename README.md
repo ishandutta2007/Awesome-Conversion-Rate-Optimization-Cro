@@ -76,7 +76,7 @@ A breakdown of leading commercial CRO, A/B testing, and digital experience platf
 
 Curated open-source repositories for self-hosted A/B testing, session recording, feature management, and conversion analysis, sorted by GitHub popularity:
 
-| Project | Star Badge | Description | Primary Stack |
+| Project | Stars_Badge | Description | Primary Stack |
 |---|---|---|---|
 | **[PostHog](https://github.com/PostHog/posthog)** 🦔 | [![Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers) | All-in-one open-source developer platform combining **product analytics, session recording, feature flags, and multivariate A/B testing**. Self-hostable or cloud. Free cloud tier includes 1M events and 5,000 replays/month. | Python, TypeScript, ClickHouse |
 | **[Matomo](https://github.com/matomo-org/matomo)** 📊 | [![Stars](https://img.shields.io/github/stars/matomo-org/matomo?style=social&color=white)](https://github.com/matomo-org/matomo/stargazers) | Leading privacy-first open-source web analytics engine (formerly Piwik) equipped with **goal conversion tracking, heatmaps, form analytics, and session recordings**. Full Google Analytics alternative providing 100% data ownership. | PHP, JavaScript, MySQL |
@@ -115,7 +115,7 @@ Contributions are warmly welcome! To propose additions or updates:
 
 1. 🍴 **Fork** the repository.
 2. 🌿 Create your feature branch (`git checkout -b feature/add-cro-tool`).
-3. ✍️ Add the new entry to `README.md` keeping the tabular structure, accurate pricing/star badges, and factual descriptions.
+3. ✍️ Add the new entry to `README.md` keeping the tabular structure, accurate pricing/Stars_Badges, and factual descriptions.
 4. 🚀 Commit your changes (`git commit -m "feat: add NewTool to CRO list"`).
 5. 📤 Push to the branch (`git push origin feature/add-cro-tool`).
 6. 📬 Open a **Pull Request** detailing why the tool is valuable for CRO teams.
